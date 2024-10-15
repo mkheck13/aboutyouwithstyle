@@ -33,7 +33,7 @@
     justify-content: space-;
     padding-left: 25px;
     padding-right: 25px;
-    color: aquamarine;
+    color:springgreen;
 }
 
 .intro{
@@ -44,4 +44,11 @@
     width: 33%;
     display: inline-block;
     margin: 20px;
+}
+
+.foot{
+    color: chartreuse;
+    display: flex;
+    justify-content: end;
+    margin-top: 6px;
 }
