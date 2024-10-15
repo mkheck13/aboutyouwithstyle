@@ -1,55 +1,51 @@
-
-.background{
-    background-image:url(/images/bluebackground.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    
+.background {
+  background-image: url(/images/bluebackground.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
-.headLinks{
-    display: flex ;
-    justify-content: space-around;
-    background-color: rgba(105, 105, 105, 0);
-    padding: 5px;
+.headLinks {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgba(105, 105, 105, 0);
+  padding: 5px;
 }
 
-.headImgs{
-    width: 50px;
+.headImgs {
+  width: 50px;
 }
 
-.selfimage{
-    width: 80%;
-    height: auto;
+.selfimage {
+  width: 80%;
+  height: auto;
 }
 
-.liststuff{
-    font-size: x-large;
-
+.liststuff {
+  font-size: x-large;
 }
 
-.maindiv{
-    display: flex;
-    justify-content: space-around;
-    padding-left: 25px;
-    padding-right: 25px;
-    color:cyan;
-    
+.maindiv {
+  display: flex;
+  justify-content: space-around;
+  padding-left: 25px;
+  padding-right: 25px;
+  color: cyan;
 }
 
-.intro{
-    font-size: larger;
+.intro {
+  font-size: larger;
 }
 
-.third{
-    width: 33%;
-    display: inline-block;
-    margin: 20px;
-    background-color: rgba(128, 128, 128, 0.27);
+.third {
+  width: 33%;
+  display: inline-block;
+  margin: 20px;
+  background-color: rgba(128, 128, 128, 0.27);
 }
 
-.foot{
-    color:cyan;
-    text-align: center;
-    margin-top: 12%;
+.foot {
+  color: cyan;
+  text-align: center;
+  margin-top: 12%;
 }
