@@ -10,7 +10,7 @@
 .headLinks{
     display: flex ;
     justify-content: space-around;
-    background-color: dimgrey;
+    background-color: rgba(105, 105, 105, 0);
     padding: 5px;
 }
 
@@ -24,7 +24,7 @@
 }
 
 .liststuff{
-    font-size: larger;
+    font-size: x-large;
 
 }
 
@@ -43,4 +43,5 @@
 .third{
     width: 33%;
     display: inline-block;
+    margin: 20px;
 }
