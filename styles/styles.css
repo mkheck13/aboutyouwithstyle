@@ -30,10 +30,11 @@
 
 .maindiv{
     display: flex;
-    justify-content: space-;
+    justify-content: space-around;
     padding-left: 25px;
     padding-right: 25px;
-    color:springgreen;
+    color:cyan;
+    
 }
 
 .intro{
@@ -44,10 +45,11 @@
     width: 33%;
     display: inline-block;
     margin: 20px;
+    background-color: rgba(128, 128, 128, 0.27);
 }
 
 .foot{
-    color: chartreuse;
+    color:cyan;
     text-align: center;
-    margin-top: 6px;
+    margin-top: 12%;
 }
