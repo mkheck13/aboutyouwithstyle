@@ -1,0 +1,46 @@
+
+.background{
+    background-image:url(/images/bluebackground.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.headLinks{
+    display: flex ;
+    justify-content: space-around;
+    background-color: dimgrey;
+    padding: 5px;
+}
+
+.headImgs{
+    width: 50px;
+}
+
+.selfimage{
+    width: 80%;
+    height: auto;
+}
+
+.liststuff{
+    font-size: larger;
+
+}
+
+.maindiv{
+    display: flex;
+    justify-content: space-;
+    padding-left: 25px;
+    padding-right: 25px;
+    color: aquamarine;
+}
+
+.intro{
+    font-size: larger;
+}
+
+.third{
+    width: 33%;
+    display: inline-block;
+}
