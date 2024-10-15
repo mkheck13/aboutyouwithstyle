@@ -8,6 +8,6 @@
 
 ### Peer Review:  
 
-**Name**: 
+**Name**: Charles Orr
 
-**Comments**: 
+**Comments**: The website looks extremely professional im very jealous of how nice it looks, only thing I could recommend is fixing the small spelling errors
